@@ -5,7 +5,7 @@ RENCANA SOFTWARE WPU
   ^ Bahasa Arab
 - Photography 
 - E-Commers
-- Game
+  ^ Food
 - Website
  * pembelajaran 
  * pelatihan
