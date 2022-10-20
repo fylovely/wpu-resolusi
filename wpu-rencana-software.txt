@@ -4,3 +4,5 @@ RENCANA SOFTWARE WPU
 - Photography 
 - E-Commers
 - Website
+ * pembelajaran 
+ * pelatihan
