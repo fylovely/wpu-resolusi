@@ -1,9 +1,11 @@
 RENCANA SOFTWARE WPU
 
 - Education 
+  ^ Bahasa Jerman
+  ^ Bahasa Inggris
 - Photography 
 - E-Commers
-- Game
+  ^ Food
 - Website
  * pembelajaran 
  * pelatihan
