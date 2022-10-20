@@ -1,11 +1,13 @@
 RENCANA SOFTWARE WPU
 
-- Education 
-  ^ Bahasa Jerman
-  ^ Bahasa Inggris
+- Education
+  ^ Bahasa inggris
+  ^ Bahasa Arab
 - Photography 
 - E-Commers
   ^ Food
 - Website
  * pembelajaran 
  * pelatihan
+   ^ Programmer
+- Python
