@@ -1,9 +1,13 @@
 RENCANA SOFTWARE WPU
 
-- Education 
+- Education
+  ^ Bahasa inggris
+  ^ Bahasa Arab
 - Photography 
 - E-Commers
 - Game
 - Website
  * pembelajaran 
  * pelatihan
+   ^ Programmer
+- Python
